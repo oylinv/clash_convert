@@ -1,2 +1,2 @@
 # 内容: SelfDefine.list 自定义列表
-IP-CIDR,43.142.26.0/32,no-resolve ;腾讯云
+IP-CIDR,43.142.26.0/32,no-resolve
