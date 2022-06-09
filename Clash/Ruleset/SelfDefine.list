@@ -1,3 +1,6 @@
 # 内容: SelfDefine.list 自定义列表
-IP-CIDR,43.142.26.0/8,DIRECT
-IP-CIDR,117.21.200.0/8,DIRECT
+IP-CIDR,43.142.26.0/16,no-resolve
+IP-CIDR,117.21.200.0/16,no-resolve
+DOMAIN-SUFFIX,klei.com
+DOMAIN-SUFFIX,kleientertainment.com
+DOMAIN,d2fr86khx60an2.cloudfront.net
