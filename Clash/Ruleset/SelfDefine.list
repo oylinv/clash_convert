@@ -7,3 +7,4 @@ DOMAIN,d2fr86khx60an2.cloudfront.net
 PROCESS-NAME,zerotier-one_x64.exe
 PROCESS-NAME,tailscaled.exe
 PROCESS-NAME,tailscale-ipn.exe
+PROCESS-NAME,parsecd.exe
