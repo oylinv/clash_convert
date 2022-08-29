@@ -4,3 +4,6 @@ IP-CIDR,117.21.200.0/16,no-resolve
 DOMAIN-SUFFIX,klei.com
 DOMAIN-SUFFIX,kleientertainment.com
 DOMAIN,d2fr86khx60an2.cloudfront.net
+PROCESS-NAME,zerotier-one_x64.exe
+PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,tailscale-ipn.exe
