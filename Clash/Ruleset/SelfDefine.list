@@ -8,3 +8,4 @@ PROCESS-NAME,zerotier-one_x64.exe
 PROCESS-NAME,tailscaled.exe
 PROCESS-NAME,tailscale-ipn.exe
 PROCESS-NAME,parsecd.exe
+DOMAIN-SUFFIX,test-ipv6.com
